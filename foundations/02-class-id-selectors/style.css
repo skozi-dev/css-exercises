@@ -1,0 +1,20 @@
+.pinkish {
+    background-color: #f59e9e;
+    font-family: 'Verdana', 'Dejavu Sans', sans-serif;
+}
+
+#num2 {
+    font-size: 36px;
+    color: #0004ff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#num4 {
+    background-color: #00ff5e;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.midfont {
+    font-size: 24px;
+}
